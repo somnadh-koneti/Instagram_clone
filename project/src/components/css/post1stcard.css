@@ -1,0 +1,153 @@
+.post1stmain{
+    padding-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.post1stsubmaindiv{
+    width: 470px;
+    height: calc(58px+585px);
+    display: flex;
+    flex-direction: column;
+}
+.post1stdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 97.8%;
+    height:50px;
+    justify-content: space-between;
+    padding-left: 1%;
+}
+.post1stsubdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-family: Helvetica, Arial, sans-serif;
+
+
+}
+.dp{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 70%;
+    background-position: center;
+}
+.ptdots{
+    width:14px;
+    height:14px;
+    object-fit: contain;
+}
+.p1stdot{
+    height: 4px;
+  width: 4px;
+  background-color: #707070;
+  border-radius: 50%;
+  display: inline-block;
+}
+.p1sttext{
+    color:#707070;
+}
+.post2nddiv{
+    flex-grow: 1;
+    width: 100%;
+    height: 585px;
+}
+.pstuplpic{
+    width:100%;
+    height:100%;
+    border-radius: 0.5%;
+    
+    
+}
+.post2ndsubmaindiv{
+    border-bottom: 2px solid #dcdcdc;
+    width: 470px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-bottom: 15px;
+
+}
+.post2-1div{
+    width: 470px;
+    height:40px;
+    display: flex;
+    justify-content: space-between;
+}
+.post2-1-1div{
+    display: flex;
+    width:auto;
+    height: auto;
+
+}
+.post2-1-1-1img{        
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+.post2-1-2-1img{
+    width: 85%;
+    height: 85%;
+    object-fit: contain;
+}
+.post2-1-2{
+    width:auto;
+    height: auto;
+    display: flex;
+    align-items:flex-end;
+    justify-content:flex-end;
+}
+.likes{
+    width: 100%;
+    height: 18px;
+    display: flex;
+    gap:3px;
+}
+.likesp{
+    font-size: 14px;
+    font-weight:bold;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.postnumcmt{
+    width: 100%;
+    height:18px;
+    color:#707070;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+.postcomment{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap:5px;
+    align-items: center;
+}
+#postcmtbtn1{
+    border: none;
+    width: 100%;
+    font-family: Helvetica, Arial, sans-serif;
+    resize:none;
+    height: normal;
+
+}
+#postcmtbtn1:focus{
+    outline: none;
+}
+.postcmtbtn2{
+    border: none;
+    background-color: white;
+    color: #318CE7;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+.postcmtimg{
+    width: 12px;
+    height: 12px;
+}

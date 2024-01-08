@@ -1,0 +1,24 @@
+.statuspic{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 60%;
+    background-position: center;
+    border:2px solid #dcdcdc;
+    padding : 2px;
+    
+}
+
+.homecardcmp{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    width: 60px;
+}
+.pp{
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

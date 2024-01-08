@@ -1,0 +1,17 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+.homemain{
+    display: flex;
+    
+}
+.home1{
+    padding-top: 50px;
+    padding-left: 8%;
+    width:52%;
+}
+.home2{
+    padding-left: 4.5%;
+    width:32%;
+}

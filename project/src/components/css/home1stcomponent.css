@@ -1,0 +1,11 @@
+.statuscmp{
+    display: flex;
+    flex-direction:row;
+    overflow-x: scroll;
+    box-sizing: border-box;
+
+}
+
+  .postcmp{
+    padding-top: 15px;
+  }

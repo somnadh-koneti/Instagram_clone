@@ -1,0 +1,54 @@
+.hmsugmain{
+    padding-top: 55px;
+    width:320px;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.sugdpimg{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 60%;
+    background-position: center;
+}
+.hmsug1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hmsug1-1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.hmsug1-1-2-1{
+    font-size: 13.8px;
+    font-weight:550;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.hmsug1-1-2-2{
+    font-size: 13.8px;
+    font-family: Helvetica, Arial, sans-serif;
+    color:  #808080;
+}
+.hmsug1-2{
+    font-family: Helvetica, Arial, sans-serif;
+    color: #318CE7;
+    font-size: 12.3px;
+    font-weight: bold;
+}
+.hmsug2{
+    display: flex;
+    font-family: Helvetica, Arial, sans-serif;
+    justify-content: space-between;
+}
+.hmsug2-1{
+    color:  #808080;
+    font-size: 15px;
+}
+.hmsug2-2{
+    font-size: 12.5px;
+    font-weight: bold;
+}

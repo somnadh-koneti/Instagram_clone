@@ -1,0 +1,36 @@
+.sugcardmain{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 15px;
+    padding-left: 3px;
+
+}
+.sugcard1st{
+    display: flex;
+    align-items: center;
+    gap:15px;
+}
+.sugcard1-2-1{
+    font-size: 13.8px;
+    font-weight:550;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.sugcard1-2-2{
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    color:  #808080;
+}
+.sugcardimg{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 70%;
+    background-position: center;
+}
+.sugcard2nd{
+    font-family: Helvetica, Arial, sans-serif;
+    color: #318CE7;
+    font-size: 12px;
+    font-weight: bold;
+}

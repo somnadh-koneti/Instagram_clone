@@ -1,0 +1,58 @@
+export const postdetails=[
+    {
+        id:1,
+        accountname:"Harry",
+        accountdp:"images/pexels-julian-jagtenberg-103123.jpg",
+        uploaded_time:"6h",
+        uploaded_pic:"images/pexels-anand-dandekar-1532771.jpg",
+        likes:10,
+        caption:"hey",
+        no_comments:23,
+    },
+    {
+        id:2,
+        accountname:"Jake",
+        accountdp:"images/pexels-matthew-montrone-1324803.jpg",
+        uploaded_time:"5h",
+        uploaded_pic:"images/pexels-blaque-x-863963.jpg",
+        likes:10,
+        caption:"hi",
+        no_comments:20,
+    },
+    {
+        id:3,
+        accountname:"Newtena",
+        accountdp:"images/pexels-andrea-piacquadio-762041.jpg",
+        uploaded_time:"4h",
+        uploaded_pic:"/images/pexels-brett-sayles-1322185.jpg",
+        likes:10,
+        caption:".....",
+        no_comments:20,
+    },
+    {
+        id:4,
+        accountname:"Emma",
+        accountdp:"images/pexels-ika-and-lukas-748870.jpg",
+        uploaded_time:"3h",
+        uploaded_pic:"images/pexels-craig-adderley-1563355.jpg",
+        likes:10,
+        caption:"loading",
+        no_comments:25,
+    }
+]
+
+export const postfeatures=[
+    {
+        id:1,
+        img:"images/love.png"
+    },
+    {
+        id:2,
+        img:"images/comments.png"
+    },
+    {
+        id:3,
+        img:"images/send.png"
+    }
+
+]

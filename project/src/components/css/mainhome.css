@@ -1,0 +1,22 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+.main{
+    display: flex;
+}
+.sub1{
+    padding-right: 10px;
+    border-right-style: solid;
+    border-color: #dcdcdc;
+    border-width: 0.01px;
+    width:15.3%;
+    left:0;
+    z-index: 9999;
+    position: fixed;
+}
+.sub2{
+    padding-left: 16.3%;
+    width:83.5%;
+
+}
